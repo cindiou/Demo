@@ -1,2 +1,3 @@
 # 使用方法(usage)
-点击右侧：预览地址
+预览地址:
+[预览地址](cindiou.github.io/demo/index.html)
